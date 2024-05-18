@@ -1,3 +1,6 @@
 [submodule "backend-nestjs"]
 	path = backend-nestjs
 	url = git@github.com:ddcsoftdev/backend-nestjs.git
+[submodule "frontend-react"]
+	path = frontend-react
+	url = git@github.com:ddcsoftdev/frontend-react.git
